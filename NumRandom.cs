@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace C_DotNet
+namespace aleatorio
 {
     static public class ListRandom
     {
