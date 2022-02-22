@@ -1,0 +1,15 @@
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\bin\Debug\net6.0\C#DotNet.exe
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\bin\Debug\net6.0\C#DotNet.deps.json
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\bin\Debug\net6.0\C#DotNet.runtimeconfig.json
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\bin\Debug\net6.0\C#DotNet.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\bin\Debug\net6.0\ref\C#DotNet.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\bin\Debug\net6.0\C#DotNet.pdb
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\obj\Debug\net6.0\C#DotNet.csproj.AssemblyReference.cache
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\obj\Debug\net6.0\C#DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\obj\Debug\net6.0\C#DotNet.AssemblyInfoInputs.cache
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\obj\Debug\net6.0\C#DotNet.AssemblyInfo.cs
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\obj\Debug\net6.0\C#DotNet.csproj.CoreCompileInputs.cache
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\obj\Debug\net6.0\C#DotNet.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\obj\Debug\net6.0\ref\C#DotNet.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\obj\Debug\net6.0\C#DotNet.pdb
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\obj\Debug\net6.0\C#DotNet.genruntimeconfig.cache
