@@ -42,7 +42,21 @@ namespace aleatorio
             return listRand;
         }
 
+        internal static List<int> Combination(List<int> list)
+        {
+            List<int> listValue = new List<int>(list);
+            List<int> listRand = new List<int>();
+            int countListValue = listValue.Count;
 
+            for(int i = 0; i < countListValue; i++)
+            {
+                int iRand = nRand.Next(0, listValue.Count);
+                listRand.Add(listValue[iRand]);
+                listValue.RemoveAt(iRand);
+            }
+
+            return listRand;
+        }
 
         internal static string ConvertToString(List<int> listNum)
         {
