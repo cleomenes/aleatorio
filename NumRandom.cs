@@ -31,12 +31,19 @@ namespace aleatorio
             {
                 allValues.Add(i);
             }
-
-            for(int i = 0; i < nElement; i++)
+            
+            try
             {
-                iRand = nRand.Next(0, allValues.Count);
-                listRand.Add(allValues[iRand]);
-                allValues.RemoveAt(iRand);
+                for(int i = 0; i < nElement; i++)
+                {
+                    iRand = nRand.Next(0, allValues.Count);
+                    listRand.Add(allValues[iRand]);
+                    allValues.RemoveAt(iRand);
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
             }
 
             return listRand;
