@@ -1,0 +1,15 @@
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\bin\Debug\net6.0\aleatorio.exe
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\bin\Debug\net6.0\aleatorio.deps.json
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\bin\Debug\net6.0\aleatorio.runtimeconfig.json
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\bin\Debug\net6.0\aleatorio.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\bin\Debug\net6.0\ref\aleatorio.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\bin\Debug\net6.0\aleatorio.pdb
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\obj\Debug\net6.0\aleatorio.csproj.AssemblyReference.cache
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\obj\Debug\net6.0\aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\obj\Debug\net6.0\aleatorio.AssemblyInfoInputs.cache
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\obj\Debug\net6.0\aleatorio.AssemblyInfo.cs
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\obj\Debug\net6.0\aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\obj\Debug\net6.0\aleatorio.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\obj\Debug\net6.0\ref\aleatorio.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\obj\Debug\net6.0\aleatorio.pdb
+C:\Users\Cleomenes Junior\Documents\Programação\C#DotNet\aleatorio\obj\Debug\net6.0\aleatorio.genruntimeconfig.cache
